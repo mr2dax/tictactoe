@@ -1,2 +1,2 @@
-# Simple python test
-tictactoe game
+# Simple python test program
+Tic-tac-toe game
