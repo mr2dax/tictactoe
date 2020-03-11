@@ -1,1 +1,2 @@
-# tictactoe
+# Simple python test
+# tictactoe game
